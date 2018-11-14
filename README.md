@@ -1,6 +1,6 @@
-https://travis-ci.org/Alexey01M/lab05.svg?branch=master
+https://travis-ci.org/liligga/lab05.svg?branch=master
 <фрагмент_вставки_значка>
-[![Build Status](https://travis-ci.org/Alexey01M/lab05.svg?branch=master)](https://travis-ci.org/Alexey01M/lab05)
+[![Build Status](https://travis-ci.org/liligga/lab05.svg?branch=master)](https://travis-ci.org/liligga/lab05)
 ## Laboratory work V
 
 Данная лабораторная работа посвещена изучению систем непрерывной интеграции на примере сервиса **Travis CI**
