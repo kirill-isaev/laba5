@@ -19,12 +19,12 @@ $ open https://travis-ci.org
 - [X] 6. Получить фрагмент вставки значка сервиса **Travis CI** в формате **Markdown**
 - [X] 7. Установить [**Travis CLI**](https://github.com/travis-ci/travis.rb#installation)
 - [X] 8. Выполнить инструкцию учебного материала
-- [X] 9. Составить отчет и отправить ссылку личным сообщением в **Slack**
+
 
 ## Tutorial
 
 ```ShellSession
-$ export GITHUB_USERNAME=Alexey01M
+$ export GITHUB_USERNAME=kirill-isaev
 $ export GITHUB_TOKEN=b7358e5d4931d272e6d15e31b1a05b9ff762fe59
 ```
 
